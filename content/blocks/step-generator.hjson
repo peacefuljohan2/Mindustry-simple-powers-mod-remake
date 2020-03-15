@@ -7,7 +7,7 @@ requirements: [
 ]
 consumes: {
     power: {
-        capacity: 100
+        capacity: 200
         buffered: true
     }
 }
