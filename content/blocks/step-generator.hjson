@@ -7,13 +7,13 @@ requirements: [
 ]
 consumes: {
     power: {
-        capacity: 200
+        capacity: 100
         buffered: true
     }
 }
 category: power
 solid: false
 layer: overlay
-research: mehcanical-drill
+research: battery
 emptyLightColor: 111111
 fullLightColor: FFEE11
