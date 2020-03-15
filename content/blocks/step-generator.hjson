@@ -7,13 +7,13 @@ requirements: [
 ]
 consumes: {
     power: {
-        capacity: 100
+        capacity: 200
         buffered: true
     }
 }
 category: power
 solid: false
 layer: overlay
-research: battery
+research: mechanical-generator
 emptyLightColor: 111111
 fullLightColor: FFEE11
